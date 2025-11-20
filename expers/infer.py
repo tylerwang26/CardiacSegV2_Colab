@@ -1,6 +1,6 @@
 import sys
 # set package path
-sys.path.append("/nfs/Workspace/CardiacSegV2")
+sys.path.append("/content/CardiacSegV2")
 
 import os
 from functools import partial
